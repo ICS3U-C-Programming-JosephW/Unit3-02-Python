@@ -3,6 +3,7 @@
 # Date: Mar. 19, 2025
 # This program creates a guessing game with number range 0-9.
 
+# Gets the constants module.
 import constants
 
 
